@@ -39,7 +39,7 @@ class Program
     }
 }
 ```
-+ Usaria el tipo de Estructura if-else. Esto con el onjetivo de poder agregar condiciones especificas
++ Usaria el tipo de Estructura if-else. Esto con el objetivo de poder agregar condiciones especificas
 y contemplar un numero de casos limitados y no tan extensos.
 
 ## Enunciado 2
