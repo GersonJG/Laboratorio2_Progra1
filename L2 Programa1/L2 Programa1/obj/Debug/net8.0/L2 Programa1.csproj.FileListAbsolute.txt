@@ -1,0 +1,14 @@
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\L2 Programa1\L2 Programa1\bin\Debug\net8.0\L2 Programa1.exe
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\L2 Programa1\L2 Programa1\bin\Debug\net8.0\L2 Programa1.deps.json
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\L2 Programa1\L2 Programa1\bin\Debug\net8.0\L2 Programa1.runtimeconfig.json
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\L2 Programa1\L2 Programa1\bin\Debug\net8.0\L2 Programa1.dll
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\L2 Programa1\L2 Programa1\bin\Debug\net8.0\L2 Programa1.pdb
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\L2 Programa1\L2 Programa1\obj\Debug\net8.0\L2 Programa1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\L2 Programa1\L2 Programa1\obj\Debug\net8.0\L2 Programa1.AssemblyInfoInputs.cache
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\L2 Programa1\L2 Programa1\obj\Debug\net8.0\L2 Programa1.AssemblyInfo.cs
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\L2 Programa1\L2 Programa1\obj\Debug\net8.0\L2 Programa1.csproj.CoreCompileInputs.cache
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\L2 Programa1\L2 Programa1\obj\Debug\net8.0\L2 Programa1.dll
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\L2 Programa1\L2 Programa1\obj\Debug\net8.0\refint\L2 Programa1.dll
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\L2 Programa1\L2 Programa1\obj\Debug\net8.0\L2 Programa1.pdb
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\L2 Programa1\L2 Programa1\obj\Debug\net8.0\L2 Programa1.genruntimeconfig.cache
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\L2 Programa1\L2 Programa1\obj\Debug\net8.0\ref\L2 Programa1.dll

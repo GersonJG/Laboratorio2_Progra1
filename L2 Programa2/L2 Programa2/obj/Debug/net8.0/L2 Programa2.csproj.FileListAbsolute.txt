@@ -1,0 +1,15 @@
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\Laboratorio2_Progra1\L2 Programa2\L2 Programa2\bin\Debug\net8.0\L2 Programa2.exe
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\Laboratorio2_Progra1\L2 Programa2\L2 Programa2\bin\Debug\net8.0\L2 Programa2.deps.json
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\Laboratorio2_Progra1\L2 Programa2\L2 Programa2\bin\Debug\net8.0\L2 Programa2.runtimeconfig.json
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\Laboratorio2_Progra1\L2 Programa2\L2 Programa2\bin\Debug\net8.0\L2 Programa2.dll
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\Laboratorio2_Progra1\L2 Programa2\L2 Programa2\bin\Debug\net8.0\L2 Programa2.pdb
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\Laboratorio2_Progra1\L2 Programa2\L2 Programa2\obj\Debug\net8.0\L2 Programa2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\Laboratorio2_Progra1\L2 Programa2\L2 Programa2\obj\Debug\net8.0\L2 Programa2.AssemblyInfoInputs.cache
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\Laboratorio2_Progra1\L2 Programa2\L2 Programa2\obj\Debug\net8.0\L2 Programa2.AssemblyInfo.cs
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\Laboratorio2_Progra1\L2 Programa2\L2 Programa2\obj\Debug\net8.0\L2 Programa2.csproj.CoreCompileInputs.cache
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\Laboratorio2_Progra1\L2 Programa2\L2 Programa2\obj\Debug\net8.0\L2 Programa2.sourcelink.json
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\Laboratorio2_Progra1\L2 Programa2\L2 Programa2\obj\Debug\net8.0\L2 Programa2.dll
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\Laboratorio2_Progra1\L2 Programa2\L2 Programa2\obj\Debug\net8.0\refint\L2 Programa2.dll
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\Laboratorio2_Progra1\L2 Programa2\L2 Programa2\obj\Debug\net8.0\L2 Programa2.pdb
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\Laboratorio2_Progra1\L2 Programa2\L2 Programa2\obj\Debug\net8.0\L2 Programa2.genruntimeconfig.cache
+E:\Words\Semestre 3\Programacion 1\Laboratorio 2\Laboratorio2_Progra1\L2 Programa2\L2 Programa2\obj\Debug\net8.0\ref\L2 Programa2.dll
